@@ -1,0 +1,119 @@
+typography_spectrum: 0.48937647717350186
+color:
+  brandStrength: 0.9388976153430741
+  lightness: 0.941864417525248
+  saturation: 0.18035037951875882
+  rhythmicContrast: 0.031811738644662024
+  brandColors:
+    - '#F9F9F9'
+    - '#F6871F'
+    - '#989898'
+    - '#CCCBCB'
+    - '#F9BB81'
+layout_spectrum: 0.13844053690792016
+author:
+  name: Erik Holtan
+  email: erik@natloh.com
+  url: natloh.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/92ff945a-c0e9-4d2b-b0f0-7411216d3808.svg
+name: natloh
+navigation:
+  - name: about
+    id: effcdbc9-4347-491c-bb8f-80f345410848
+    type: content
+  - name: portfolio
+    url: 'https://natloh.com/gallery/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/05ce2cd4-a19c-4e33-b6df-c08fd6fe9183.ico
+title: natloh
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjcHxRPvKkgo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjcHxRPvKkgo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjcHxRPvKkgo%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=jcHxRPvKkgo'
+      keywords:
+        - duration
+        - newport
+        - beach
+        - views
+        - time-lapse
+        - timelapse
+        - lapse
+        - california
+        - ivideomaking
+        - sunset
+      related: []
+      author:
+        - name: Erik Holtan
+          url: 'https://www.youtube.com/user/eerikk2'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Newport Beach Timelapse 2012
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=jcHxRPvKkgo&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=jcHxRPvKkgo&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=jcHxRPvKkgo&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=jcHxRPvKkgo&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=jcHxRPvKkgo&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=jcHxRPvKkgo'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=jcHxRPvKkgo
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=jcHxRPvKkgo
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: >-
+        Spend a day at Newport Beach in California! This project was done for my
+        Intro to Visual Storytelling class at Chapman University.
+      inLanguage: en
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: User Expirence Design Freelance
+purpose:
+  - type: contact
+    url: 'mailto:erik@natloh.com'
+    label: Contact me
+  - type: external
+    url: 'https://natloh.com/gallery/'
+    label: Check Out My Portfolio
+github: true
